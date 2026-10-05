@@ -1,4 +1,4 @@
-# MTN CUSTOMER CHURN ANALYSIS(Q1 2026)
+# 📊 MTN CUSTOMER CHURN ANALYSIS(Q1 2026)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -10,7 +10,7 @@
 - [Results/Findings](#resultsfindings)
 - [Recommendations](#recommendation)
 - [Limitations](#limitations)
-- [References](#reference)
+- [References](#references)
   
 
 ### Project Overview
@@ -75,15 +75,21 @@ The analysis results are summarised as follow;
 Based on the analysis, I recommend the following actions;
 
 
-1. Address the 29% churn rate by introducing loyalty discounts or bundled bonuses to counter competitivr pricing ("Better Offers").
+1. Address the 29% churn rate by introducing loyalty discounts or bundled bonuses to counter competitive pricing ("Better Offers").
 2. Prioritise infrastructure upgrades in region experiencing high churn due to "Poor Network Coverage and "Slow data speeds".
 3. With poor customer service driving 116 churned users, implement faster ticketing workflows, proactive issue resolution, and follow up check-ins for users reporting "fair" or "poor" satisfaction rate.
 4. Leverage the high revenue yield seen in 5G routers (100.82M) by running upgrade campaigns that offer affordable instalment plan or trade-in incentives for users on standard SIM or basic MiFi devices. 
 
 ### Limitations
 
+1. They were some missing data.
 
 
+
+ ### References
+
+1. **Microsoft PowerBi documentation** - Guidelines for DAX Measures and data Modelling
+2. **Kaggle dataset** - *MTN Customer Churn(Q1 2026)*
 
 
 
