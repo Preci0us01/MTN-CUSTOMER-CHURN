@@ -45,6 +45,7 @@ EDA  involved exploring the mtn customer churn data to answer key questions, suc
 - Total revenue generated across different parameter
 - Customer Churn Distribution
 - Best Subscriber And Best State
+- Customer Satisfaction rating 
 
 ### Data Analysis
 
