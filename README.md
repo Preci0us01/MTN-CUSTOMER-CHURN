@@ -16,7 +16,12 @@
 ### Project Overview
 
 This project presents an interactive **Power Bi Dashboard** built to analyse customer churn, revenue distribution,
-subscriber demographics and service performance for MTN during the first quarter of 2026. The goal is to uncover behaviourial patterns among subscribers, identify high-value customer segments, and highlight primary drivers of churn to help guide guide retention strategies.
+subscriber demographics and service performance for MTN during the first quarter of 2026. The goal is to uncover behavioural patterns among subscribers, identify high-value customer segments, and highlight primary drivers of churn to help guide guide retention strategies.
+
+[dashboard]https://github.com/Preci0us01/MTN-CUSTOMER-CHURN/blob/main/mtn%20dashboard.png
+
+
+
 
 ### Data Sources
 
